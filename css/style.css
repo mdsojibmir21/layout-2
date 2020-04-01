@@ -1,0 +1,64 @@
+body {
+	margin: 0; 
+	padding: 0;
+	background-color: #f2f2f2;
+}
+.container {
+	margin: 0 auto;
+	width: 90%;
+}
+.logo, .header, .body{
+	width: 100%;
+	min-height: 140px;
+	background: #c0c0c0;
+}
+h1 {
+	text-align: center;
+	font-size: 45px;
+	margin: 0;
+	padding-top: 50px;
+}
+.main{
+	overflow: hidden;
+	margin: 15px 0;
+}
+
+.sidebar {
+   
+    width: 20%;
+    height: 718px;
+    float: left;
+    border: 1px dotted #c0c0c0;
+}
+.content{
+	width: 78%;
+	float: right;
+}
+.header{
+	height: 200px;
+	background: #c0c0c0;
+	padding-bottom: 10px;
+}
+.body{
+	height: 500px;
+	background: #c0c0c0;
+	padding-bottom: 10px;
+}
+.header h1 {
+	padding-top: 78px;
+}
+.body h1{
+	padding-top: 240px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
